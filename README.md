@@ -2,15 +2,6 @@
 
 # Cross-Project Google Cloud Monitoring and Alerting
 
-## Table of Contents
-
-  - [Introduction](https://www.google.com/search?q=%23introduction)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  - [Installation and Usage](https://www.google.com/search?q=%23installation-and-usage)
-  - [Configuration](https://www.google.com/search?q=%23configuration)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
-  - [License](https://www.google.com/search?q=%23license)
 
 -----
 
