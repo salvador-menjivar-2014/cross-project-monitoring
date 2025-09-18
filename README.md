@@ -1,6 +1,6 @@
-Of course, here is the README file based on the Terraform code you provided.
 
-# Terraform for Centralized Google Cloud Monitoring and Alerting
+
+# Cross-Project Google Cloud Monitoring and Alerting
 
 ## Table of Contents
 
@@ -131,11 +131,6 @@ resource "google_monitoring_notification_channel" "email_channel" {
 
 -----
 
-## Contributing
-
-Contributions are welcome\! Please feel free to submit a pull request or open an issue to discuss any changes.
-
------
 
 ## License
 
